@@ -1,2 +1,2 @@
 # Networking-projects
-Networking hands-on projects
+Projects will be added soon.
