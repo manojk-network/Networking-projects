@@ -49,7 +49,7 @@ For NOC and Security engineers, aggressive scanning helps quickly identify expos
 
 ## Screenshots
 ### Default Nmap script Output
-![image alt](https://github.com/manojk-network/Networking-projects/blob/30e89ece48e72228f85c0bc730c6e139c80e5391/Nmap/Screenshots/Default%20Nmap%20scripts%20output.png)
+![image alt](https://github.com/manojk-network/Networking-Projects/blob/4a38d5f5c72b0f971874c4668e4d89cc920058d5/Nmap/Screenshots/Default%20Nmap%20Script%20Output.png)
 - This screenshot shows OS detection (Linux) and default Nmap script outputs, giving insight into the target system behavior.
 
 ### OS $ Service info
