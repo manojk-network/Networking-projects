@@ -57,7 +57,7 @@ For NOC and Security engineers, aggressive scanning helps quickly identify expos
 - This output highlights service versions such as OpenSSH and Apache HTTPD, useful for vulnerability assessment.
 
 ### Open ports & services
-![image alt](https://github.com/manojk-network/Networking-projects/blob/b52dc1c460f8050c8025721a4fc0b8dbbe580b44/Nmap/Screenshots/Open%20ports%20%26%20services.png)
+![image alt](https://github.com/manojk-network/Networking-Projects/blob/a1eb70fe7b979d5f7a66212f5bc52a2c4bd45dc3/Nmap/Screenshots/Open%20Ports%20%26%20Services.png)
 - This screenshot shows open TCP ports (22, 80) discovered using Nmap aggressive scan, indicating active SSH and HTTP services.
   
 ## Video Explanation
